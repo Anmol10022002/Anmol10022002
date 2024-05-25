@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AI/ML,React.js**
 
-- 💬 Ask me about **AI/Ml**
+- 💬 Ask me about **AI/ML**
 
 - 📫 How to reach me **rastogi.anmol10@gmail.com**
 
