@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anmol Rastogi</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.indianic.com/blog/wp-content/uploads/2023/02/artificial-intelligence-banner-img.jpg")
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmol10022002&label=Profile%20views&color=0e75b6&style=flat" alt="anmol10022002" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmol10022002" alt="anmol10022002" /></a> </p>
 
 - 🔭 I’m currently working on [Character-recognition](https://github.com/Anmol10022002/Character-recognition)
 
